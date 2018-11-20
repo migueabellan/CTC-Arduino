@@ -47,6 +47,22 @@ La descarga de Arduino 3 ocupa 112Mb aproximadamente. Al ser un lenguaje multipl
 
 
 
+## Instalar placa 101
+
+1. Accede a l menú `` Herramientas \ Placas \ Gestor de tarjetas``.
+2. Busca en el buscador que aparece el paquete ``Intel Curie Boards``. Este proceso puede tardar unos minutos.
+3. Reinicia Arduino para que los cambios tomen efecto.
+
+
+
+## Instalar librería CTC
+
+1. Accede a l menú `` Programa \ Librería \ Gestionar librería``.
+2. Busca en el buscador que aparece la librería ``EducationShield``. Este proceso puede tardar unos minutos.
+3. Reinicia Arduino para que los cambios tomen efecto.
+
+
+
 [1]: https://www.arduino.cc/
 [2]: https://www.arduino.cc/en/Main/Software
 [3]: https://www.arduino.cc/en/Guide/Linux/
