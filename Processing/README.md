@@ -71,6 +71,8 @@ La descarga de Processing 3 ocupa 126Mb aproximadamente. Al ser un lenguaje mult
 2. Descomprime la carpeta y añádela dentro de la carpeta ``processing-xxxx/modes/java/examples/Demos``.
 3. Accede a Processing y verás los ejemplos dentro del menú ``Archivo/Ejemplos/Demos``.
 
+También puedes añadirla dentro de la carpeta ``processing-xxxx/Sketchbook`` y acceder desde el menú ``Archivo/Sketchbook``.
+
 ![](img/linux.png)
 
 
