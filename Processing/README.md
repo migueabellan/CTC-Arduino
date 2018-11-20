@@ -49,7 +49,7 @@ La descarga de Processing 3 ocupa 126Mb aproximadamente. Al ser un lenguaje mult
 
 ### Windows
 
-1. Accede a los ejemplos [CTC - Processing][2] de GitHub y descarga el contenido en el botón "Download ZIP".
+1. Accede a los ejemplos [CTC - Processing][3] de GitHub y descarga el contenido en el botón "Download ZIP".
 2. Descomprime la carpeta y añádela dentro de la carpeta ``processing-xxxx/`` donde la hayas descomprimido.
 3. Accede a Processing y verás los ejemplos dentro del menú ``Archivo/Sketchbook``.
 
@@ -58,7 +58,7 @@ La descarga de Processing 3 ocupa 126Mb aproximadamente. Al ser un lenguaje mult
 
 ### Mac Os X
 
-1. Accede a los ejemplos [CTC - Processing][2] de GitHub y descarga el contenido en el botón "Download ZIP".
+1. Accede a los ejemplos [CTC - Processing][3] de GitHub y descarga el contenido en el botón "Download ZIP".
 2. Descomprime la carpeta y añádela dentro de la carpeta ``Aplicaciones/[usuario]/Processing``.
 3. Accede a Processing y verás los ejemplos dentro del menú ``Archivo/Sketchbook``.
 
@@ -67,7 +67,7 @@ La descarga de Processing 3 ocupa 126Mb aproximadamente. Al ser un lenguaje mult
 
 ### Linux 
 
-1. Accede a los ejemplos [CTC - Processing][2] de GitHub y descarga el contenido en el botón "Download ZIP".
+1. Accede a los ejemplos [CTC - Processing][3] de GitHub y descarga el contenido en el botón "Download ZIP".
 2. Descomprime la carpeta y añádela dentro de la carpeta ``processing-xxxx/modes/java/examples/Demos``.
 3. Accede a Processing y verás los ejemplos dentro del menú ``Archivo/Ejemplos/Demos``.
 
