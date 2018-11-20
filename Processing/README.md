@@ -17,7 +17,7 @@ La descarga de Processing 3 ocupa 126Mb aproximadamente. Al ser un lenguaje mult
         - Si está basado en ``x86`` es de 32 bits.
         - Si está basado en ``x64`` es de 64 bits.
 3. Descomprime el archivo con extensión ``.zip``.
-4. Una vez descomprimido haz clic en processing.exe para empezar.
+4. Una vez descomprimido haz clic en ``processing.exe`` para empezar.
 
 
 ### Mac OS X
@@ -29,7 +29,7 @@ La descarga de Processing 3 ocupa 126Mb aproximadamente. Al ser un lenguaje mult
         - Si aparece ``RELEASE i386`` es de 32 bits.
         - Si aparece ``RELEASE x86_64`` es de 64 bits.
 3. Descomprime el archivo con extensión ``.zip`` y arrástralo en la carpeta ``/Aplicaciones``.
-4. Una vez descomprimido haz clic en processing.exe para empezar.
+4. Una vez descomprimido haz clic en ``processing.exe`` para empezar.
 
 
 ### Linux
